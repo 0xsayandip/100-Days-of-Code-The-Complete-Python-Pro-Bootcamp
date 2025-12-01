@@ -112,7 +112,7 @@ Each folder contains:
 
 ```bash
 # Clone this repository
-git clone https://github.com/ItsKungFuPanda/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp.git
+git clone https://github.com/0xsayandip/100-Days-of-Code-The-Complete-Python-Pro-Bootcamp.git
 
 # Navigate to a specific day's folder
 cd "Day 05"
