@@ -4,7 +4,7 @@ print("Hello world!")
 #Strings="Hello world!"
 
 #Syntax error
-print("Hello world!"
+print("Hello world!")
 
 #print("Hello world!\nHello world!\nHello world!")
 
